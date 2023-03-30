@@ -1,2 +1,1 @@
-![Input: (MCXXXVIII)
-Output: (1138)]("1.png")
+![Input: (MCXXXVIII)  Output: (1138)]("1.png")
